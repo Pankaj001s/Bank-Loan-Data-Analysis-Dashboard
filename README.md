@@ -21,6 +21,8 @@ the main objective of this project is to analyze loan data to understand borrowe
 
 5.home ownership vs last payment data stats.
 
+- Dashboard interaction 
+
 ## process
 
 - Verify data for any missing values and anomalies,and sort out the same.
