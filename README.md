@@ -3,7 +3,7 @@
 
 #bank-Loan-Data-Analysis(interactive dashboard creation using MS Excel)
 
-## Project Objectived
+## Project Objective
 the main objective of this project is to analyze loan data to understand borrower behavior,   loan performance, and risk factors, and to present the findings through an interactive dashboard for better decision-making.
 
 ## Questions(KPIs)
