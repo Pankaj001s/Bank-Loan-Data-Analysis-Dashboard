@@ -9,7 +9,6 @@ the main objective of this project is to analyze loan data to understand borrowe
 - <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Excel%20Project%20bank%20loan%20analysis.xlsx"> Dashboard <a/>
 
 
-
 ## Questions(KPIs)
 1.Year wise loan amount status.
 
@@ -43,8 +42,6 @@ Financial institutions can use this to assess credit risk before approving loans
 Verified borrowers often show better repayment reliability compared to unverified applicants.
 
 Some states show higher loan demand and repayment rates.
-
-Others may have higher default levels, helping banks adjust lending policies geographically.
 
 Certain months experience higher loan approvals, possibly due to seasonal financial needs.
 
