@@ -1,7 +1,5 @@
-# Bank-Loan-Data-Analysis-Dashboard
+# Bank-Loan-Data-Analysis-Dashboard(interactive dashboard creation using MS Excel)
  I developed an interactive Excel dashboard to analyze loan application and repayment data. The project examines borrower characteristics, loan performance, and repayment behavior using multiple dimensions such as loan grade, verification status, home ownership. this process involved several stages, data preprocessing ,data cleaning,visualization.
-
-#bank-Loan-Data-Analysis(interactive dashboard creation using MS Excel)
 
 ## Project Objective
 the main objective of this project is to analyze loan data to understand borrower behavior,   loan performance, and risk factors, and to present the findings through an interactive dashboard for better decision-making.
