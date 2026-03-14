@@ -10,6 +10,9 @@ the main objective of this project is to analyze loan data to understand borrowe
 1.Year wise loan amount status.
 
 2.Grade and sub grade wies revol_balance.
+
 3.Total payment for verified status vs total payment for non verified status.
+
 4.status wise and month wise loan status.
+
 5.home ownership vs last payment data stats.
