@@ -36,6 +36,8 @@ the main objective of this project is to analyze loan data to understand borrowe
 
 ## View Dashboard
 
+- <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-14%20095454.png"> View <a/>
+
 
 
 
