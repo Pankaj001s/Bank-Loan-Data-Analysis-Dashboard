@@ -8,7 +8,7 @@ the main objective of this project is to analyze loan data to understand borrowe
 
 ## Dataset used
 - <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Bank_Dataset.xlsx"> Dataset <a/>
-- <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Excel%20Project%20bank%20loan%20analysis.xlsx">
+
 
 ## Questions(KPIs)
 1.Year wise loan amount status.
