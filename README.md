@@ -36,11 +36,18 @@ the main objective of this project is to analyze loan data to understand borrowe
 
 ## View Dashboard
 
-https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-14%20095454.png
- 
+- <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-14%20095454.png"> View <a/>
 
+## project insights
 
+Financial institutions can use this to assess credit risk before approving loans.
 
+Verified borrowers often show better repayment reliability compared to unverified applicants.
 
+Some states show higher loan demand and repayment rates.
 
+Others may have higher default levels, helping banks adjust lending policies geographically.
 
+Certain months experience higher loan approvals, possibly due to seasonal financial needs.
+
+Borrowers with mortgages or owned homes may have more stable repayment behavior compared to renters.
