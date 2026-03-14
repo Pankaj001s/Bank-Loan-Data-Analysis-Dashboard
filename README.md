@@ -7,7 +7,8 @@
 the main objective of this project is to analyze loan data to understand borrower behavior,   loan performance, and risk factors, and to present the findings through an interactive dashboard for better decision-making.
 
 ## Dataset used
--<a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Excel%20Project%20bank%20loan%20analysis.xlsx">
+- <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Bank_Dataset.xlsx">
+- <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Excel%20Project%20bank%20loan%20analysis.xlsx">
 
 ## Questions(KPIs)
 1.Year wise loan amount status.
