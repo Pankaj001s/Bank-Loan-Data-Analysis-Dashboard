@@ -20,3 +20,17 @@ the main objective of this project is to analyze loan data to understand borrowe
 4.status wise and month wise loan status.
 
 5.home ownership vs last payment data stats.
+
+## process
+
+- Verify data for any missing values and anomalies,and sort out the same.
+
+- Made sure data is consistent and clean with respect to data type,data format and values used.
+
+- Created pivot tables according to the questions asked.
+
+- Merge all pivot tables into one dasboard and apply slicer to make dynamic.
+
+## Dashboard
+
+- <a href="https://github.com/Pankaj001s/Bank-Loan-Data-Analysis-Dashboard/blob/main/Excel%20Project%20bank%20loan%20analysis.xlsx"> view Dashboard <a/>
